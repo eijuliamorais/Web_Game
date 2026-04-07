@@ -6,7 +6,7 @@ Este projeto foi construído como parte da **Atividade Prática 1 da disciplina 
 
 ## 🎮 Jogue Agora
 
-👉 **[JOGAR ONLINE (GitHub Pages) - CLIQUE AQUI](https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/)** 
+👉 **[JOGAR ONLINE (GitHub Pages) - CLIQUE AQUI](https://eijuliamorais.github.io/Web_Game/)** 
 
 ## ✨ Funcionalidades e Lógica Técnica
 
